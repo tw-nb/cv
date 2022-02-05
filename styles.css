@@ -14,3 +14,7 @@ h1 {
 h3 {
   color:#6A9C78;
 }
+
+.star {
+  opacity: .5;
+}
